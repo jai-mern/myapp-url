@@ -1,0 +1,15 @@
+/* pages.css */
+
+/* Styles for Home page */
+.home-page {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  /* Styles for About page */
+  .about-page {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
